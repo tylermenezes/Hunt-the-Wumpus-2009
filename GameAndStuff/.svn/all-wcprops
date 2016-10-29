@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff
+END
+HTW.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff/HTW.cs
+END
+GameManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff/GameManager.cs
+END
+Profile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff/Profile.cs
+END
+IGameState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff/IGameState.cs
+END
+SinglePlayerPlayState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff/SinglePlayerPlayState.cs
+END
+SinglePlayerGameManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff/SinglePlayerGameManager.cs
+END
+MultiPlayerGameManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff/MultiPlayerGameManager.cs
+END
+Player.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/axerxo/repo/webdav/!svn/ver/235/Hunt%20the%20Wumpus%202009/trunk/HuntTheWumpus/GameAndStuff/Player.cs
+END
